@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spark 
 - 👯 I’m looking to collaborate on any interesting data project
 - 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/Paolo-Carta)
+    - [LinkedIn]()
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Istayontheground)
 
